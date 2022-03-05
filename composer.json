@@ -1,0 +1,24 @@
+{
+    "name": "borrowworks/messenger-queue-interop",
+    "type": "library",
+    "description": "Mechanism for delegating message bus objects to different async transports",
+    "keywords": ["symfony", "messenger", "queue", "async", "transport"],
+    "authors": [
+        {
+            "name": "Blake LaFleur",
+            "email": "blake.lafleur@borrowworks.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "symfony/messenger": "^5.0 || ^6.0"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "BorrowWorks\\MessageBus\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}

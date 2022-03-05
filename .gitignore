@@ -1,0 +1,11 @@
+.idea/
+.DS_Store
+bin/
+build/
+vendor/
+phpunit.xml
+composer.lock
+
+# ignore phpunit result cache
+.phpunit.result.cache
+*.iml
