@@ -2,7 +2,7 @@
 
 namespace BorrowWorks\MessageBus\Interop\Handler;
 
-use App\MessageBus\Interop\Delegate\AbstractTransportDelegate;
+use BorrowWorks\MessageBus\Interop\Delegate\AbstractTransportDelegate;
 use Symfony\Component\Messenger\Handler\MessageHandlerInterface;
 use Symfony\Component\Messenger\MessageBusInterface;
 
