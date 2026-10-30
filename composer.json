@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "php": ">=7.4",
+        "php": ">=8.4",
         "symfony/messenger": "^5.0 || ^6.0"
     },
     "require-dev": {
