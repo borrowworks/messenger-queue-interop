@@ -3,7 +3,7 @@ A very simple library that allows you to easily dispatch messages to different t
 interoperability of messages.
 
 ## Requirements
-- PHP 7.4+
+- PHP 8.4+
 - symfony/messenger 5.x or 6.x
 
 ## Usage
